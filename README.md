@@ -19,6 +19,7 @@ To begin, follow these steps:
 Upon running the program, you will be presented with a menu where you can choose between different options:
 - **Stoichiometry**: Enter the element or compound, along with the given mass, moles, or molecules, to calculate related properties.
 - **Balance Equations**: This feature is not yet implemented.
+- **More!**: Yet to be implemented!
 - **Quit**: Exit the program.
 
 ## License
