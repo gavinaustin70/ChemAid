@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to the ChemAid, a virtual tool designed to assist you with various chemistry calculations and tasks. This program is authored by Gavin Austin.
 
+## Key Notes
+This repository is very much in its DEMO stage. Many changes are to come.
+
 ## Features
 - Stoichiometry: Perform stoichiometric calculations based on the given input of mass, moles, or molecules of an element or compound.
 - Balance Equations: Coming soon.
